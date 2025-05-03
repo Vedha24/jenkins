@@ -1,4 +1,4 @@
-apk update && apk add python3
+
 print("Hello world")
 print("This is update -vedha")
 print("Update: This update will reflect once Jenkins auto builds after 5 minutes.")
