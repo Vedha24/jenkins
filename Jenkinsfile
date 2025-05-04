@@ -9,7 +9,7 @@ pipeline {
     }
     environment {
         STUDENT_NAME = "Vedha Mudhana"
-        ROLL_NO = "se22ucse286" // Replace with your actual roll number
+        ROLL_NO = "SE22UCSE286" // Replace with your actual roll number
     }
     stages {
         stage('Build') {
